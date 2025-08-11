@@ -2,7 +2,7 @@
 
 A clean, responsive, and animated developer portfolio built with **React.js** — showcasing who I am, what I build, and how to connect with me.
 
-🔗 **Live Demo:** https://portfolio-ruby-sigma-59.vercel.app
+🔗 **Live Demo:**
 
 ---
 
