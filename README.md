@@ -2,7 +2,7 @@
 
 A clean, responsive, and animated developer portfolio built with **React.js** — showcasing who I am, what I build, and how to connect with me.
 
-🔗 **Live Demo:**
+🔗 **Live Demo:**https://porfolio-page-self.vercel.app/
 
 ---
 
