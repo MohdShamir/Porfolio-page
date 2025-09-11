@@ -8,7 +8,11 @@ const About = () => {
     // { number: '∞', label: 'Hunger for Growth', color: 'text-green-500' }
   ];
 
+<<<<<<< HEAD
   const technologies = [ 'React', 'JavaScript', 'Node.js', 'Express.js' , 'MongoDB', 'MySQL' , 'Tailwind CSS', 'Java' ,'C++', 'Git' , 'GitHub' , 'RestAPIs', 'EJS', 'Vite'];
+=======
+  const technologies = ['React', 'JavaScript', 'Node.js', 'Express.js' , 'MongoDB', 'MySQL' , 'Tailwind CSS', 'Java' ,'C++', 'Git' , 'GitHub' , 'RestAPIs', 'EJS', 'Vite'];
+>>>>>>> 3b98bdc67e6c451558395546ff9c72e69c7608c8
 
   return (
     <section data-aos="fade-up" id="about" className="py-20 bg-transparent text-gray-900">
