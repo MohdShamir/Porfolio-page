@@ -43,7 +43,7 @@ const Hero = () => {
         className="mt-8 flex gap-6"
       >
         <a
-          href="/Resume.pdf"
+          href="/SHAMIR.pdf"
           download
           className="px-6 py-3 rounded-xl border-2 border-gray-800 text-white font-semibold bg-neutral-900 hover:bg-white hover:text-black flex items-center gap-2 transition-all duration-300"
         >
