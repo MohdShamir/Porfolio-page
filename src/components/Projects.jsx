@@ -12,6 +12,15 @@ const Projects = () => {
       link: "https://major-project-full-web-devlopment.onrender.com/listings",
       github: "https://github.com/MohdShamir",
     },
+     {
+      id: 2,
+      title: "Event Management",
+      description: "Developed a full-stack web app using React, Node.js, Express, and MongoDB enabling user authentication (JWT), event creation, editing, and deletion. Deployed frontend on Vercel and backend on Render, ensuring secure, scalable, and responsive performance.",
+      image: "https://images.unsplash.com/photo-1561489396-888724a1543d?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      tech: ["Node.js", "Express", "MongoDB", "EJS", "Cloudinary"],
+      link: "https://event-management-psi-three.vercel.app/",
+      github: "https://github.com/MohdShamir",
+    }
 
   ];
 
